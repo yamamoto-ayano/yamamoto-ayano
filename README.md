@@ -23,6 +23,16 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yamamoto-ayano&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=4" alt="trophies" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2ecc71/yamamoto-ayano" alt="contributions" />
+</div>
+<br/>
+
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=prussian&hideBorder=true&bgColor=%2300000000&textColor=%239aa5b1" alt="jokes" />
 </div>
 
